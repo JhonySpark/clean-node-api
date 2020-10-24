@@ -1,4 +1,4 @@
-function teste () {
+function teste() {
   return {
     a: 'asd',
     b: 'asd',
