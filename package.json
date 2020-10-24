@@ -1,0 +1,19 @@
+{
+  "name": "clean-node-api",
+  "version": "1.0.0",
+  "description": "Construindo uma API node com clean arquiteture.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhonySpark/clean-node-api.git"
+  },
+  "author": "JhonySpark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JhonySpark/clean-node-api/issues"
+  },
+  "homepage": "https://github.com/JhonySpark/clean-node-api#readme"
+}
