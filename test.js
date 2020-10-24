@@ -1,3 +1,4 @@
 function teste () {
-  return { a: 'asd' , b: 'asd' }
+  return { a  : 'asd'
+  , b  : 'asd'   }
 }
