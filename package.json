@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JhonySpark/clean-node-api/issues"
   },
-  "homepage": "https://github.com/JhonySpark/clean-node-api#readme"
+  "homepage": "https://github.com/JhonySpark/clean-node-api#readme",
+  "devDependencies": {
+    "standard": "^15.0.0"
+  }
 }
