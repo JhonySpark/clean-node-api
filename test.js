@@ -1,4 +1,4 @@
 function teste () {
   return { a  : 'asd'
-  , b  : 'asd'   }
+  , b  : 'asd' , c: ""  }
 }
