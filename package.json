@@ -6,6 +6,11 @@
   "scripts": {
     "test": "test"
   },
+  "lint-staged": {
+    "*.js": [
+      "standard"
+    ]
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JhonySpark/clean-node-api.git"
@@ -17,6 +22,7 @@
   },
   "homepage": "https://github.com/JhonySpark/clean-node-api#readme",
   "devDependencies": {
+    "lint-staged": "^10.4.2",
     "standard": "^15.0.0"
   }
 }
